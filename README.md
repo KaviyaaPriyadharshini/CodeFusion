@@ -33,7 +33,7 @@ Access the live preview of Code Sync [here](#).
 ### **Method 1: Manual Installation**
 1. **Fork & Clone the Repository**
    ```sh
-   git clone https://github.com/<your-username>/Code-Sync.git
+   git clone https://github.com/KaviyaaPriyadharshini/CodeFusion/
    ```
 2. **Configure Environment Variables**
    - Create a `.env` file in both the `client` and `server` directories.

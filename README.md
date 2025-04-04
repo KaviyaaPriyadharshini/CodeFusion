@@ -21,9 +21,6 @@ Code Sync is a cutting-edge real-time collaborative code editor that allows mult
 - **AI-Powered Copilot**: Generate, insert, or replace code snippets effortlessly.
 - **Live Preview**: View real-time updates of web-based projects.
 
-## Live Demo
-Access the live preview of Code Sync [here](#).
-
 ## Tech Stack
 - **Frontend**: React, TypeScript, React Router, Tailwind CSS
 - **Backend**: Node.js, Express.js, Socket.io

@@ -24,7 +24,7 @@ Code Sync is a cutting-edge real-time collaborative code editor that allows mult
 ## Tech Stack
 - **Frontend**: React, TypeScript, React Router, Tailwind CSS
 - **Backend**: Node.js, Express.js, Socket.io
-- **Infrastructure**: Docker, Vercel, Git, GitHub
+- **Infrastructure**: Vercel, Git, GitHub
 
 ## Installation Guide
 ### **Method 1: Manual Installation**
